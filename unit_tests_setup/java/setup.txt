@@ -1,0 +1,6 @@
+https://start.spring.io/ ->download demo
+https://maven.apache.org/install.html install Maven
+http://www.eclipse.org/m2e/ integration with Eclipse
+mvn install
+mvn compiler:compile
+mvn test
